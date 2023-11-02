@@ -1,1 +1,1 @@
-Just pushing stuff that GPT tells me to code because creativity isn't my strong suit.
+Creativity isn't what I am good at, so using the almighty power of AI, I will be finishing coding challenges with different rules that are posted in the "package-info" files located in each package.
