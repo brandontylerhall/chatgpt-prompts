@@ -9,9 +9,10 @@ public class Input {
         in = new Scanner(System.in);
     }
 
-    String getString() {
+    public String getString() {
         return in.next();
     }
+    public String getLine() { return in.nextLine(); }
 
     public boolean yes() {
         String userInput = in.nextLine().toLowerCase();
