@@ -2,12 +2,6 @@ package challenge2;
 
 import util.Input;
 
-// Create a Java program that simulates a simple to-do list. The program should:
-//Add tasks to the to-do list.
-//Remove tasks from the to-do list.
-//Display the current list of tasks.
-//Quit the program.
-
 public class TodoApp {
     public static void main(String[] args) {
         TodoItemManager itemList = new TodoItemManager();
