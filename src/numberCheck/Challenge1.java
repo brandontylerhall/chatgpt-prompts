@@ -9,7 +9,7 @@ import java.util.Random;
 // The program should provide hints to the user, indicating whether the guessed number is too high, too low, or correct.
 // The game should continue until the user correctly guesses the number.
 // After each guess, the program should also display the number of attempts the user has made.
-public class NumberGame {
+public class Challenge1 {
     public static void main(String[] args) {
         Input in = new Input();
         Random random = new Random();
